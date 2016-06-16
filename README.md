@@ -1,9 +1,9 @@
-**C++ ShortID**
-**===========**
-**Create Youtube-Like IDs With PHP/Python/Javascript/Java/SQL**
-For more infos visit:
-http://kvz.io/blog/2009/06/10/create-short-ids-with-php-like-youtube-or-tinyurl/
-
+**C++ ShortID**<br/>
+**===========**<br/>
+**Create Youtube-Like IDs With PHP/Python/Javascript/Java/SQL**<br/>
+For more infos visit:<br/>
+http://kvz.io/blog/2009/06/10/create-short-ids-with-php-like-youtube-or-tinyurl/<br/>
+<br/>
 Thanks to Kevin van Zonneveld who published the original PHP Version of the algorithm.
 
 ```cpp
