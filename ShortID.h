@@ -2,7 +2,7 @@
 //  ShortID.h
 //  SocketServer
 //
-//  Created by Kay on 16.06.16.
+//  Created by Kay Makowsky on 16.06.16.
 //  Copyright © 2016 Kay Makowsky. All rights reserved.
 //
 
