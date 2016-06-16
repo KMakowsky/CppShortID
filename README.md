@@ -1,6 +1,6 @@
 **C++ ShortID**<br/>
 ===========<br/>
-**Create Youtube-Like IDs With PHP/Python/Javascript/Java/SQL**<br/>
+**Create Youtube-Like IDs With PHP/Python/Javascript/Java/SQL and NOW also with C++**<br/>
 For more infos visit:<br/>
 http://kvz.io/blog/2009/06/10/create-short-ids-with-php-like-youtube-or-tinyurl/<br/>
 <br/>
